@@ -1,0 +1,9 @@
+Objective:
+
+Create a new data type for students using OOP concepts:
+
+-Assign a first name, last name, age, GPA and classes they're taking
+-Populate the data type with instances of 5 students containing unique and shared values
+-Add a subclass of graduate students which inherits data from students
+-Give the graduate subclass a degree
+-Print out regular students, graduate students and compare them
